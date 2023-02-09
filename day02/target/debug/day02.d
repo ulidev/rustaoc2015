@@ -1,0 +1,1 @@
+/home/ulidev/Documents/code/adventofcode/rustaoc2015/day02/target/debug/day02: /home/ulidev/Documents/code/adventofcode/rustaoc2015/day02/input.txt /home/ulidev/Documents/code/adventofcode/rustaoc2015/day02/src/main.rs
